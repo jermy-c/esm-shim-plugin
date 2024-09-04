@@ -1,3 +1,5 @@
+import MagicString from "magic-string";
+
 /**
  * An alternative to @rollup/plugin-esm-shim (https://github.com/rollup/plugins/tree/master/packages/esm-shim).
  *

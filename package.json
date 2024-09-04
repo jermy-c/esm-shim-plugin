@@ -5,5 +5,8 @@
   "type": "module",
   "repository": "https://github.com/jermy-c/esm-shim-plugin.git",
   "author": "Jeremy Chang <jeremy.chang@beonex.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "magic-string": "^0.30.11"
+  }
 }
