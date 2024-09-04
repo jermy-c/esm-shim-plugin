@@ -1,0 +1,8 @@
+{
+  "name": "esm-shim-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jermy-c/esm-shim-plugin.git",
+  "author": "Jeremy Chang <jeremy.chang@beonex.com>",
+  "license": "MIT"
+}
